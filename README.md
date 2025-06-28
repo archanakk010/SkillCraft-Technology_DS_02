@@ -1,5 +1,4 @@
-#  Titanic Survival Analysis - Data Cleaning & Exploratory Data Analysis
-
+#  Exploring Data Relationships with EDA: Titanic Dataset Analysis
 ##  Project Overview
 This project analyzes the Titanic dataset to understand the factors that influenced passenger survival. By cleaning the data and performing Exploratory Data Analysis (EDA), we uncover patterns and trends related to age, gender, ticket class, and more.
 
